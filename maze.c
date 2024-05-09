@@ -10,6 +10,7 @@ SDL_Window *window;
 SDL_Renderer *renderer;
 SDL_Texture *texture;
 uint32_t buffer[SCREEN_HEIGHT][SCREEN_WIDTH];
+uint32_t tiles[TEX_COUNT][TEX_HEIGHT][TEX_WIDTH];
 point_t pos;
 point_t direction;
 point_t plane;

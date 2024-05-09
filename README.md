@@ -19,6 +19,6 @@ $ git clone https://github.com/Azubuikeleo13/The-Maze-Project.git
 
 ## Compilation
 ```sh
-$ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
+$ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze 
 ```
-## Author: Sweilam@abdelrahman21-arch
+## Editor : Sweilam@abdelrahman21-arch
